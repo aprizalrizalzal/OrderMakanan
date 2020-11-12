@@ -1,0 +1,12 @@
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\bin\Debug\OrderMakanan.exe.config
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\bin\Debug\OrderMakanan.exe
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\bin\Debug\OrderMakanan.pdb
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\bin\Debug\OrderMakanan.xml
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.vbprojAssemblyReference.cache
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.OrderMakanan.resources
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.Resources.resources
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.vbproj.GenerateResource.cache
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.vbproj.CoreCompileInputs.cache
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.exe
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.xml
+C:\Users\Apri Zal\source\repos\OrderMakanan\OrderMakanan\obj\Debug\OrderMakanan.pdb
